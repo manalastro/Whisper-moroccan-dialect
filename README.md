@@ -8,7 +8,15 @@ OpenAI’s Whisper is a new state-of-the-art (SotA) model in speech-to-text. It 
 Our motivation in this NLP project is to retrain Whisper(small) in a moroccan dataset speeches to generate an arabic text which is going to be the input of motor engine.Our goal is to help illiterate individuals to do their research easily.
 
 ## set up :
-### !pip install git+https://github.com/openai/whisper.git
+```bash
+!pip install git+https://github.com/openai/whisper.git
+```
+
+
+
+
+
+
 
 ## RESULT:
 <img width="959" alt="DEMO (1)" src="https://user-images.githubusercontent.com/132793786/236660018-4986119f-5561-499e-9a8f-ec8a7f2cbf67.png">
