@@ -1,3 +1,5 @@
+<img width="341" alt="open" src="https://user-images.githubusercontent.com/132793786/236660316-b6bfe9cc-7843-4eaf-bc57-f7e6523a3b76.png">
+
 # Retraining Whisper(small)
 
 ## OpenAI’s Whisper is a new state-of-the-art (SotA) model in speech-to-text. It is able to almost flawlessly transcribe speech across dozens of languages and even handle poor audio quality or excessive background noise.The domain of spoken word has always been somewhat out of reach for ML use-cases. Whisper changes that for speech-centric use cases. We will demonstrate the power of Whisper alongside other technologies like transformers and vector search by building a new and improved YouTube search.
