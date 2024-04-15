@@ -21,4 +21,4 @@ Our motivation in this NLP project is to retrain Whisper(small) in a moroccan da
 ## RESULT:
 <img width="959" alt="DEMO (1)" src="https://user-images.githubusercontent.com/132793786/236660018-4986119f-5561-499e-9a8f-ec8a7f2cbf67.png">
 
-We tried to use our model in Hugging Face : https://huggingface.co/manal123/ADHD
+We tried to deploy our model in Hugging Face : https://huggingface.co/manal123/ADHD
